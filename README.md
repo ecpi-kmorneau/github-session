@@ -1,2 +1,2 @@
 # github-session
-This is a demo
+This is a change of the README file
